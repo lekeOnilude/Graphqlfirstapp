@@ -16,7 +16,7 @@
         android:textSize="30sp"
         android:textAlignment="center"
         android:textColor="#000"
-        android:text="The number of GitHub User in Lagos, Nigeria" />
+        android:text="Numbers of GitHub User in Lagos, Nigeria" />
 
     <TextView
         android:id="@+id/user_name"
